@@ -1,9 +1,4 @@
-进口请求
-进口CSV
-进口JSON
-从……起datetime进口datetime
-进口xml.etree.ElementTree成交
-从...起BS4进口美丽的汤
+
 
 #CNN RSS新闻源地址
 RSS_URL="https://rss.cnn.com/rss/cnn_world.rss"
